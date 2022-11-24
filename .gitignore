@@ -1,0 +1,8 @@
+*.pdf
+*.exe
+*.pdb
+*.obj
+.vs/
+Debug/
+Release/
+x64/
